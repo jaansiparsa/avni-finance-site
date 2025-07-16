@@ -4,29 +4,35 @@ export default function Resources() {
       <h1 className="text-3xl font-bold mb-4 text-center">Finance Resources</h1>
       <ul className="space-y-4">
         <li>
-          <a href="#" className="text-blue-600 hover:underline">
-            Investopedia
+          <a href="https://www.wallstreetoasis.com/forum" className="text-blue-600 hover:underline">
+            Wallstreet Oasis Forums
           </a>{" "}
-          - Comprehensive finance and investing education.
+          - Level headed takes from the greatest minds of our generation.
         </li>
         <li>
-          <a href="#" className="text-blue-600 hover:underline">
-            NerdWallet
+          <a href="https://www.justice.gov/archives/opa/pr/samuel-bankman-fried-sentenced-25-years-his-orchestration-multiple-fraudulent-schemes" className="text-blue-600 hover:underline">
+            Optimal Portfolio Management
           </a>{" "}
-          - Personal finance tips and product reviews.
+          - An in-depth guide on developing your own portfolio from one of the greatest to ever do it.
         </li>
         <li>
-          <a href="#" className="text-blue-600 hover:underline">
-            The Intelligent Investor
+          <a href="https://coinmarketcap.com/currencies/official-trump/" className="text-blue-600 hover:underline">
+            Low Volatility Options
           </a>{" "}
-          - Classic book by Benjamin Graham.
+          - Classic.
         </li>
         <li>
-          <a href="#" className="text-blue-600 hover:underline">
-            r/personalfinance
+          <a href="https://en.wikipedia.org/wiki/Donald_Trump" className="text-blue-600 hover:underline">
+          Greatest Pump and Dumper of our Time
           </a>{" "}
-          - Reddit community for personal finance advice.
+          - Much to learn.
         </li>
+        <li>
+          <a href="https://www.reddit.com/r/wallstreetbets/" className="text-blue-600 hover:underline">
+            r/wallstreetbets
+          </a>{" "}
+          - Like 4Chan found a Bloomberg Terminal
+      </li> 
       </ul>
     </main>
   );
